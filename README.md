@@ -1,6 +1,6 @@
 # SILSWA-Official-Website
 
-Netlify live site link: [Create React App](https://clever-rosalind-ec1717.netlify.app).
+Netlify live site link: [Create React App](silswa-official-web2021.netlify.app).
 
 - SILSWA official website
 - In the Home section, you'll get all updates
