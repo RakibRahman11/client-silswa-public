@@ -8,11 +8,11 @@ const Footer = () => {
     return (
         <div>
             <div className='footer'>
-                <h3 className='batch'>Affliction Partner <i class="far fa-handshake"></i></h3>
+                <h3 className='batch'>Affliction Partner <i className="far fa-handshake"></i></h3>
                 <div>
-                    <img src={minute} />
-                    <img src={pathshala} />
-                    <img src={ghuri} />
+                    <img src={minute} alt='' />
+                    <img src={pathshala} alt='' />
+                    <img src={ghuri} alt='' />
                 </div>
                 <p>Copyright © 2021 silswa.com</p>
             </div>

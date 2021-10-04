@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, CardGroup } from 'react-bootstrap';
+import { Card } from 'react-bootstrap';
 import HomeService from '../HomeService/HomeService';
 import banner from './Banner.png'
 import './Home.css'
@@ -18,7 +18,7 @@ const Home = () => {
                     </Card.Text>
                 </Card.ImgOverlay>
             </Card>
-<HomeService></HomeService>
+            <HomeService></HomeService>
         </div>
     );
 };

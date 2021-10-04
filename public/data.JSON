@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Silswa Admission Exam Batch 2.0",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 32,
+        "price": 100,
+        "img": "./1.jpg"
+    },
+    {
+        "title": "General Knowledge crash course",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 43,
+        "price": 100,
+        "img": "./2.jpg"
+    },
+    {
+        "title": "General Knowledge crash course",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 43,
+        "price": 100,
+        "img": "./3.jpg"
+    },
+    {
+        "title": "Admission Model Exam Batch 2.0",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 63,
+        "price": 100,
+        "img": "./4.jpg"
+    },
+    {
+        "title": "Video Editor course",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 13,
+        "price": 100,
+        "img": "./5.jpg"
+    },
+    {
+        "title": "Digital Device - ICT",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 33,
+        "price": 100,
+        "img": "./6.jpg"
+    },
+    {
+        "title": "Biology 2nd Paper - Grasshopper",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 43,
+        "price": 100,
+        "img": "./7.jpg"
+    },
+    {
+        "title": "Bangla 2nd Paper - Shomash",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 63,
+        "price": 100,
+        "img": "./8.jpg"
+    },
+    {
+        "title": "Instructor Hiring",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 21,
+        "price": 100,
+        "img": "./9.jpg"
+    },
+    {
+        "title": "Free Live",
+        "description": "An educational consultant that provides high-quality educational support to the students of Bangladesh.",
+        "enroll": 43,
+        "price": 100,
+        "img": "./10.jpg"
+    }
+]
