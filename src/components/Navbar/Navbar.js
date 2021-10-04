@@ -5,6 +5,7 @@ import './Navbar.css'
 const Navbar = () => {
     return (
         <div>
+            {/* navlink added for active design */}
             <NavLink className='nav'
                 to="/home"
                 activeStyle={{

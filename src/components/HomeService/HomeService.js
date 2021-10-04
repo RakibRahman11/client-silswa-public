@@ -59,7 +59,8 @@ const HomeService = () => {
                             ঘরে বাইরে যখন তখন যেখানে থাকো হাতের কাছে থাকছে সমস্ত নোট ও বই এই ওয়েবসাইটে । পছন্দ করো তোমার অংশ আর এগিয়ে যাও কয়েক ধাপ।
                         </Card.Text>
                     </Card.Body>
-
+                    
+                    {/* footer design */}
                     <Card.Footer>
                         <small className='price'>Only at <strike>1000</strike> 800 BDT</small>
                         <Button variant='outline-primary'>See more</Button>

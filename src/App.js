@@ -15,24 +15,27 @@ function App() {
   return (
     <div className="App">
       <Router>
+        {/* permanent navbar added for all pages */}
         <Navbar></Navbar>
         <Switch>
-          <Route path='/home'>
+          <Route exact path='/home'>
             <Home></Home>
           </Route>
-          <Route path='/about'>
+          <Route exact path='/about'>
             <About></About>
           </Route>
-          <Route path='/service'>
+          <Route exact path='/service'>
             <Services></Services>
           </Route>
-          <Route path='/contact'>
+          <Route exact path='/contact'>
             <Contact></Contact>
           </Route>
-          <Route exact path='*'>
+          {/* error page handle */}
+          <Route path='*'>
             <PageError></PageError>
           </Route>
         </Switch>
+        {/* permanent footer added for all pages */}
         <Footer></Footer>
       </Router>
     </div>
