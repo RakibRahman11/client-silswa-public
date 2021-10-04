@@ -24,6 +24,15 @@ const Navbar = () => {
                 About
             </NavLink>
             <NavLink className='nav'
+                to="/service"
+                activeStyle={{
+                    fontWeight: "bold",
+                    color: "blue"
+                }}
+            >
+                Services
+            </NavLink>
+            <NavLink className='nav'
                 to="/contact"
                 activeStyle={{
                     fontWeight: "bold",

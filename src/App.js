@@ -8,6 +8,7 @@ import Contact from './components/Contact/Contact';
 import Navbar from './components/Navbar/Navbar';
 import PageError from './components/PageError/PageError';
 import Footer from './components/Footer/Footer';
+import Services from './components/Services/Services';
 
 function App() {
   return (
@@ -20,6 +21,9 @@ function App() {
           </Route>
           <Route path='/about'>
             <About></About>
+          </Route>
+          <Route path='/service'>
+            <Services></Services>
           </Route>
           <Route path='/contact'>
             <Contact></Contact>

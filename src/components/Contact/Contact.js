@@ -1,9 +1,15 @@
 import React from 'react';
+import './Contact.css'
 
 const Contact = () => {
     return (
-        <div>
-            <h1>This is contact section</h1>
+        <div className='contact'>
+            <h1>Get connected with Silswa</h1>
+            <a href='https://goo.gl/maps/e4t3QPdYKarLFZ1v7'>Meher Tower, 164 Sonargaon Road, Dhaka 1205</a>
+            <h4>Official Page: <a href='https://www.facebook.com/silswa'>Facebook</a> <a href='https://www.linkedin.com/company/silswa/'>LinkedIn</a></h4>
+            
+            <h4>Helpline: 09639-189159</h4>
+            <h4>Official: silswa2017@gmail.com</h4>
         </div>
     );
 };
