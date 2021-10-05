@@ -1,22 +1,5 @@
-.batch{
-    font-size:xx-large;
-    margin-top: 100px;
-    margin-bottom: 40px;
+.card-details{
+    width: 400px;
+    margin: 10px;
     display: inline-block;
-    background-color: rgba(34, 34, 214, 0.795);
-    color: white;
-    padding: 10px 20px;
-}
-
-.batch-img{
-    width: 200px;
-    height: 180px;
-    border: 1px solid black;
-    border-radius: 50px;
-    margin-left: 20%;
-    padding:20px;
-}
-
-.price{
-    margin-right: 10px;
 }

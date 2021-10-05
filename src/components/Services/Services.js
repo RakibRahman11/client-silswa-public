@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import HomeService from '../HomeService/HomeService';
 import Service from '../Service/Service';
 
 const Services = () => {

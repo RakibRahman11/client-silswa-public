@@ -1,6 +1,6 @@
 import React from 'react';
 import { Card } from 'react-bootstrap';
-import HomeService from '../HomeService/HomeService';
+import HomeServices from '../HomeServices/HomeServices';
 import banner from './Banner.png'
 import './Home.css'
 
@@ -18,7 +18,7 @@ const Home = () => {
                     </Card.Text>
                 </Card.ImgOverlay>
             </Card>
-            <HomeService></HomeService>
+            <HomeServices></HomeServices>
         </div>
     );
 };
